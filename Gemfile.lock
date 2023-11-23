@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    equals (0.1.0)
+    shortener (0.1.0)
 
 GEM
   remote: https://rubygems.org/
@@ -67,10 +67,10 @@ PLATFORMS
 
 DEPENDENCIES
   debug
-  equals!
   rake (~> 12.0)
   rspec (~> 3.0)
   rubocop
+  shortener!
 
 BUNDLED WITH
    2.4.19

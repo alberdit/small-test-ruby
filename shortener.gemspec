@@ -1,7 +1,7 @@
-require_relative 'lib/equals/version'
+require_relative 'lib/shortener/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = 'equals'
+  spec.name          = 'shortener'
   spec.version       = Shortener::VERSION
   spec.authors       = ['Alex Recuenco']
   spec.email         = ['alex.recuenco@esave.es']

@@ -1,4 +1,4 @@
-require 'equals/version'
+require 'shortener/version'
 
 module Shortener
   class Error < StandardError; end
