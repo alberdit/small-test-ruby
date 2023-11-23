@@ -253,3 +253,6 @@ $RECYCLE.BIN/
 
 
 .rspec_status
+
+Gemfile.lock
+.ruby-version
